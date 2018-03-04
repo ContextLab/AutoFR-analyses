@@ -6,3 +6,6 @@ The data is stored in pickle files in  the data directory (separate transcriptio
 
 Please also see our in-house Python package, [Quail](https://github.com/ContextLab/quail), used for figure generation, and the code for our [free recall experiment](https://github.com/ContextLab/autoFR).
 
+<h3> Requirements </h3>
+Quail
+etc...
