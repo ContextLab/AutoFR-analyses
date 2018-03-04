@@ -7,7 +7,7 @@ Please also see our in-house Python package, [Quail](https://github.com/ContextL
 <h3>To use:</h3>
 <ul>
 <li>git clone https://github.com/ContextLab/AutoFR-analyses.git</li>
-<li>navigate to the folder, then <xmp>pip install -r requirements.txt</xmp></li>
+<li>navigate to the folder, then 'pip install -r requirements.txt'</li>
 <li>navigate to notebooks directory</li>
 <li>open jupyter notebooks and run analyses</li>
 </ul>
