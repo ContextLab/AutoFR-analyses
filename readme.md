@@ -11,7 +11,3 @@ Please also see our in-house Python package, [Quail](https://github.com/ContextL
 <li>navigate to notebooks directory</li>
 <li>open jupyter notebooks and run analyses</li>
 </ul>
-
-<h3> Requirements </h3>
-Quail
-etc...
